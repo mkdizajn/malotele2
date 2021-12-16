@@ -1,0 +1,34 @@
+{
+  "cordova-plugin-sms": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-sms"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-sms-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-sms-plugin@^1.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-sms-receive": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-sms-receive"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

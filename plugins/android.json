@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-sms": {
+      "PACKAGE_NAME": "org.apache.cordova.tele2"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.apache.cordova.tele2"
+    },
+    "cordova-sms-plugin": {
+      "PACKAGE_NAME": "org.apache.cordova.tele2"
+    },
+    "cordova-plugin-sms-receive": {
+      "PACKAGE_NAME": "org.apache.cordova.tele2"
+    }
+  },
+  "dependent_plugins": {}
+}
